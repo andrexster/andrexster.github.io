@@ -1,0 +1,16 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aliceblue;
+}
+#nome{
+    font-family: 'Courier New', Courier, monospace;
+}
+#beaga{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: overline;
+}
+.habilidades{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
