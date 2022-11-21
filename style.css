@@ -1,16 +1,55 @@
-body{
-    font-family: 'Courier New', Courier, monospace;
-    background-color: burlywood;
-}
-#nome{
-    font-family: 'Courier New', Courier, monospace;
-}
-#beaga{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bold;
-    font-style: italic;
-    text-decoration: overline;
-}
-.habilidades{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+body {
+    background-color: rgb(246, 249, 250);
+    padding: 3%;
+  }
+
+ .descricao {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 36%;
+    right: 8%;
+  }
+  .meuNome{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  em {
+    color: rgb(67, 138, 83);
+  }
+
+  .javascript {
+    font-size: 20px;
+  }
+
+  .sql {
+    font-size: 18px;
+  }
+
+  .react {
+    font-size: 16px;
+  }
+
+  .bootstrap {
+    font-size: 14px;
+  }
+
+  .metoAgil {
+    font-size: 12px;
+  }
+
+  #minha-foto{
+    float: left;
+    height: 280px;
+    width: 300px;
+    padding: 10px;
+    background-color: gray;
+  }
+
+  .image-container{
+    height: 300px;
+    position: relative;
+  }
+
+  ul li:nth-child(odd){
+    background-color: aqua;
+  }
